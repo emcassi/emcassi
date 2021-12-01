@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @alexander-wayne
 - 👀 I’m interested in all things technology!
-- 🌱 I’m currently focusing on iOS Development, but work on a variety of different projects
 - 🧠 Languages I use: Swift, Java, C++, Dart, Python, JavaScript, C#
 - 📫 You can reach me at alexwaynepublic@gmail.com
 
