@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @alexander-wayne
-- 👀 I’m interested in all things technology!
-- 🧠 Languages I use: Swift, Java, C++, Dart, Python, JavaScript, C#
-- 🧑‍💻 My Website is https://www.wayneapps.com
-- 📫 You can reach me at alex@wayneapps.com
+- 👀 I like making different projects but most often it's game dev related
+- 🧠 Languages I use: C#, Java, C++, Dart, Python, JavaScript, C#, Haxe, Swift
+- 📫 You can reach me at alex.wayne.dev@gmail.com.com
 - Still working on transferring my projects to GitHub. More to come :)
 
 <!---
