@@ -3,5 +3,5 @@
 
   # hi, i’m alex :)
   
-  I work on a variety of projects, but really enjoy mobile development 📱
+  I work on a variety of projects, but really enjoy mobile development
 </div>
