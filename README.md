@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/ewzF6uunnPn6L5amuW/giphy-downsized-large.gif" width=250px />
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemt6bzZoNXNoNjBmcGw5MHRxZWVkbm1hNng3ZnRtbDk1cTVubmEwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N6funLtVsHW0g/giphy.gif)
 
 # Hi, I’m Alex :)
 
@@ -11,4 +10,3 @@ Go · Lua · Swift · UIKit
 
 Actively looking for a dev role — say hi!
 alex.wayne.dev @ gmail . com
-</div>
