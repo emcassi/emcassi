@@ -6,7 +6,7 @@ I’m an app developer focused on building tools that make developer workflows b
 Currently working on a next-gen terminal — spatial, elegant, and AI-native.
 
 Desert dweller 🌵 | Neovim user  
-Go · Lua · Swift · UIKit
+Go · Lua · Swift
 
 Actively looking for a dev role — say hi!
 alex.wayne.dev @ gmail . com
