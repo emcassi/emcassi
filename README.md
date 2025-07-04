@@ -3,7 +3,6 @@
 # Hi, I’m Alex :)
 
 I’m an app developer focused on building tools that make developer workflows better.  
-Currently working on a next-gen terminal — spatial, elegant, and AI-native.
 
 Desert dweller 🌵 | Neovim user  
 Go · Lua · Swift
